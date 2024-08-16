@@ -1,0 +1,22 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#000000"/>
+
+  <!-- Shield -->
+  <path d="M200 50 L300 100 L300 200 L200 250 L100 200 L100 100 Z" fill="#61D488" transform="scale(1.4) translate(-70,-20)" />
+
+  <!-- Lock -->
+  <rect x="170" y="150" width="60" height="90" fill="#FFFFFF" rx="5"/>
+  <rect x="185" y="110" width="30" height="40" fill="none" stroke="#61D488" stroke-width="6" rx="20"/>
+  <rect x="195" y="210" width="10" height="20" fill="#61D488"/>
+
+  <!-- Text: CYSRO -->
+  <text x="50%" y="330" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="50" font-weight="bold" text-anchor="middle" letter-spacing="5">
+    CYSRO
+  </text>
+
+  <!-- Subtext: Cyber Security -->
+  <text x="50%" y="360" fill="#61D488" font-family="Arial, sans-serif" font-size="25" text-anchor="middle" letter-spacing="2">
+    Cyber Security
+  </text>
+</svg>
